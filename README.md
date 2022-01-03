@@ -6,3 +6,6 @@ Black friday is an informal name for the friday following Thanksgiving Day in th
 Many stores offers highly promoted sales on Black Friday. 
 
 This project tries to predict the number of possible sales on black friday. 
+
+
+## Note - I am working on to add the Complete end-to-end description for this project. Please stay tuned!!
